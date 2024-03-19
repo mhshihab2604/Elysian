@@ -16,7 +16,7 @@ const Header = () => {
                         <Link to="/contact">Contact</Link>
                     </ul>
                     </div>
-                    <h2 className="text-xl lg:text-4xl font-bold">Elysian</h2>
+                    <h2 className="text-xl lg:text-4xl font-bold text-[#8C52FF]">Elysian</h2>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1 flex gap-5 text-lg">
