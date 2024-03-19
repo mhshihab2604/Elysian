@@ -1,0 +1,58 @@
+
+
+[
+    {
+        "id": "P1234",
+        "product_name": "Wireless Earbuds",
+        "image": "https://i.ibb.co/R4vMbv3/433960710-1140193247137393-8214900727083438661-n.png",
+        "price": 99.99,
+        "manufacture_date": "2023-05-20",
+        "expire_date": "2026-05-20",
+        "brand": "AudioTech"
+    },
+    {
+        "id": "P5678",
+        "product_name": "Smartwatch",
+        "image": "https://i.ibb.co/jhB8Bgv/433204557-779272177067677-1191341011757980891-n.png",
+        "price": 199.99,
+        "manufacture_date": "2023-06-10",
+        "expire_date": "2027-06-10",
+        "brand": "TechWear"
+    },
+    {
+        "id": "P91011",
+        "product_name": "Digital Camera",
+        "image": "https://i.ibb.co/j3TGbNV/430829682-1123545108672177-2368154710408169125-n.png",
+        "price": 299.99,
+        "manufacture_date": "2023-07-15",
+        "expire_date": "2028-07-15",
+        "brand": "PhotoPro"
+    },
+    {
+        "id": "P121314",
+        "product_name": "Gaming Mouse",
+        "image": "https://i.ibb.co/jhB8Bgv/433204557-779272177067677-1191341011757980891-n.png",
+        "price": 79.99,
+        "manufacture_date": "2023-08-05",
+        "expire_date": "2026-08-05",
+        "brand": "GameGenius"
+    },
+    {
+        "id": "P151617",
+        "product_name": "Bluetooth Speaker",
+        "image": "https://i.ibb.co/jhB8Bgv/433204557-779272177067677-1191341011757980891-n.png",
+        "price": 129.99,
+        "manufacture_date": "2023-09-25",
+        "expire_date": "2027-09-25",
+        "brand": "SoundWave"
+    },
+    {
+        "id": "P181920",
+        "product_name": "Electric Toothbrush",
+        "image": "https://i.ibb.co/jhB8Bgv/433204557-779272177067677-1191341011757980891-n.png",
+        "price": 49.99,
+        "manufacture_date": "2023-10-10",
+        "expire_date": "2025-10-10",
+        "brand": "DentaCare"
+    }
+]
